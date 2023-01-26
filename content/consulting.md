@@ -1,15 +1,13 @@
 ---
 title: "Consulting"
 date: 2023-01-18T12:43:58-05:00
-draft: true
+draft: false
 toc:
   enable: true
   auto: true
 ---
 
-<p><img src="/images/hasha_portrait.jpg" title="Alex Hasha" align="right" width = "1200px" style = "margin-left:20px; 
-        margin-top:10px; margin-bottom:50px;"></p>
-
+{{<figure src="/images/hasha_portrait.jpg">}}
 
 ## About Me
 
