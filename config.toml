@@ -30,10 +30,6 @@ enableEmoji = true
 # ignore some build errors
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
-[module]
-[[module.imports]]
-path = 'github.com/dillonzq/LoveIt'
-
 # Author config
 [author]
 name = "Alex Hasha"
