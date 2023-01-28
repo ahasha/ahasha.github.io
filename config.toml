@@ -42,6 +42,15 @@ link = ""
 [menu]
 [[menu.main]]
 weight = 1
+identifier = "about"
+# you can add extra information before the name (HTML format is supported), such as icons
+pre = ""
+# you can add extra information after the name (HTML format is supported), such as icons
+post = ""
+name = "About"
+url = "/about/"
+[[menu.main]]
+weight = 1
 identifier = "consulting"
 # you can add extra information before the name (HTML format is supported), such as icons
 pre = ""
@@ -104,9 +113,9 @@ mobileMode = "auto"
 #  Header title config
 [params.header.title]
 # URL of the LOGO
-logo = "images/logo.png"
+logo = "/images/color_logo_with_background.png"
 # title name
-name = "Hasha Data Science"
+name = ""
 # you can add extra information before the name (HTML format is supported), such as icons
 pre = ""
 # you can add extra information after the name (HTML format is supported), such as icons
@@ -201,7 +210,7 @@ avatarURL = "/images/alex_hasha_portrait_round.png"
 #  title shown in home page (HTML format is supported)
 title = ""
 # subtitle shown in home page (HTML format is supported)
-subtitle = "Operationalizing Analytical Integrity "
+subtitle = ""
 # whether to use typeit animation for subtitle
 typeit = true
 # whether to show social links
@@ -211,7 +220,7 @@ disclaimer = ""
 
 # Home page posts
 [params.home.posts]
-enable = true
+enable = false
 # special amount of posts in each home posts page
 paginate = 6
 #  replaced with hiddenFromHomePage in params.page
@@ -221,7 +230,7 @@ defaultHiddenFromHomePage = false
 # Social config about the author
 [params.social]
 GitHub = "ahasha"
-Linkedin = "alexander.hasha"
+Linkedin = "alexander-hasha"
 Twitter = ""
 Instagram = ""
 Facebook = ""
@@ -273,7 +282,7 @@ Behance = ""
 Dribbble = ""
 Wordpress = ""
 Vine = ""
-Googlescholar = "U0ZybEIAAAAJ"
+Googlescholar = "user=U0ZybEIAAAAJ"
 Researchgate = ""
 Mastodon = ""
 Thingiverse = ""
@@ -520,10 +529,10 @@ thumbnailUrl = ""
 
 #  Analytics config
 [params.analytics]
-enable = false
+enable = true
 # Google Analytics
 [params.analytics.google]
-id = ""
+id = "G-9KW5YLG9ZM"
 # whether to anonymize IP
 anonymizeIP = true
 # Fathom Analytics

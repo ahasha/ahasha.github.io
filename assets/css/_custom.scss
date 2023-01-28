@@ -1,0 +1,84 @@
+// ==============================
+// Custom style
+// ==============================
+
+.side-image {
+    width: 25%;
+    height: 100%;
+    float: left;
+
+    img {
+        height: auto;
+        margin: 25px 0 0 0;
+        @include box-shadow(0 0 0 .3618em rgba(0, 0, 0, .05));
+        @include transition(all 0.4s ease);
+
+        &:hover {
+            position: relative;
+            @include transform(translateY(-.75rem));
+        }
+    }
+}
+
+.side-image-main {
+    width: 70%;
+    height: 100%;
+    float: right;
+}
+
+@media only screen and (max-width: 680px) {
+    .consulting-main {
+        width: 100%;
+        height: 100%;
+    }
+
+    .consulting-side {
+        width: 25%;
+        float: left;
+
+        img {
+            height: auto;
+            margin: 25px 0 0 0;
+            @include box-shadow(0 0 0 .3618em rgba(0, 0, 0, .05));
+            @include transition(all 0.4s ease);
+
+            &:hover {
+                position: relative;
+                @include transform(translateY(-.75rem));
+            }
+        }
+    }
+}
+
+header {
+    .logo {
+          min-height: 4.0em;
+          height: 4.0em;
+          vertical-align: text-bottom;
+    }
+
+    .header-title-post {
+        padding-left: 0.0rem;
+      }
+}
+
+// Section Headings Left
+.archive {
+    .single-title, .single-subtitle {
+      text-align: left;
+    }
+}
+
+.special {
+    .single-title, .single-subtitle {
+      text-align: left;
+    }
+}
+
+.single {
+    .content {
+        > h2 > .header-mark::before {
+              content: ">";
+            }
+    }
+}
