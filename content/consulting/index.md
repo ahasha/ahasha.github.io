@@ -41,6 +41,6 @@ If this sounds like you, I may be able to help with...
 * **Coach existing analytics teams**: I can help your existing team level-up their software engineering skillset and
   develop processes that let them scale while maintaining transparency and reliability.
 
-Please [contact me](/contact/ to explore how we might work together!)
+Please [contact me](/contact/) to explore how we might work together!
 
 </div>

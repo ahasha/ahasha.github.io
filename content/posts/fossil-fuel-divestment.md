@@ -1,7 +1,7 @@
 ---
 title: "Fossil Fuel Divestment"
 date: 2023-02-01T08:39:23-05:00
-draft: true
+draft: false
 tags: ["climate", "divestment"]
 ---
 

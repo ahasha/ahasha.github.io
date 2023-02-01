@@ -1,7 +1,7 @@
 ---
 title: "Operationalizing Analytical Integrity"
 date: 2023-01-28T16:26:01-05:00
-draft: true
+draft: false
 toc:
 tags: ["analytical-integrity"]
 ---
