@@ -80,11 +80,11 @@ url = "/tags/"
 title = ""
 [[menu.main]]
 weight = 4
-identifier = "categories"
+identifier = "resume"
 pre = ""
 post = ""
-name = "Categories"
-url = "/categories/"
+name = "Resume"
+url = "/documents/alex_hasha_resume.pdf"
 title = ""
 
 [params]
@@ -220,7 +220,7 @@ disclaimer = ""
 
 # Home page posts
 [params.home.posts]
-enable = false
+enable = true
 # special amount of posts in each home posts page
 paginate = 6
 #  replaced with hiddenFromHomePage in params.page
@@ -328,7 +328,7 @@ rssFullText = false
 #  Table of the contents config
 [params.page.toc]
 # whether to enable the table of the contents
-enable = true
+enable = false
 #  whether to keep the static table of the contents in front of the post
 keepStatic = true
 # whether to make the table of the contents in the sidebar automatically collapsed

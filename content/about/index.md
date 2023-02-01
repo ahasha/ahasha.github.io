@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-01-28T15:48:50-05:00
-draft: true
+draft: false
 ---
 
 <div class="side-image">
@@ -14,7 +14,7 @@ draft: true
 
 My name is Alex Hasha.  I’m an experienced Data Science leader with thirteen years of
 professional experience developing models, building data-driven products, and managing
-highly-skilled teams of Data Scientists.  Check out my [resume](/documents/Alex_Hasha_resume.pdf)
+highly-skilled teams of Data Scientists.  Check out my [resume](/documents/alex_hasha_resume.pdf)
 for the details!
 
 I can offer your organization:
