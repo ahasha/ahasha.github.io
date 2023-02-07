@@ -4,6 +4,7 @@ date: 2023-01-28T16:26:01-05:00
 draft: false
 toc:
 tags: ["analytical-integrity"]
+weight: 1
 ---
 
 ## If you're in the data business, analytical integrity is critical
