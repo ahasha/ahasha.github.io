@@ -72,11 +72,11 @@ url = "/posts/"
 title = ""
 [[menu.main]]
 weight = 3
-identifier = "tags"
+identifier = "climate"
 pre = ""
 post = ""
-name = "Tags"
-url = "/tags/"
+name = "Climate"
+url = "/categories/climate/"
 title = ""
 [[menu.main]]
 weight = 4
