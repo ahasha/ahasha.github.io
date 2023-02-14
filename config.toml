@@ -1,4 +1,4 @@
-baseURL = "https://ahasha.github.io/"
+baseURL = "https://www.hashadatascience.com/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
