@@ -3,10 +3,10 @@ title: "About Me"
 date: 2023-01-28T15:48:50-05:00
 draft: false
 ---
-<button class="contact-button" role="button" onclick="window.location.href='/contact/';">Get in touch!</button>
 
 <div class="side-image">
 <img src="/images/hasha_profile.jpg" alt="Profile picture">
+<button class="contact-button" style="width: 100%;" role="button" onclick="window.location.href='/contact/';">Get in touch!</button>
 </div>
 
 <div class="side-image-main">
