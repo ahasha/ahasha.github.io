@@ -3,16 +3,17 @@ title: "What's a DAG and why do Data Scientists need them?"
 date: 2023-02-07T08:18:03-05:00
 draft: false
 weight: 2
+tags: ["dag"]
 ---
 
 One of the themes that has motivated my career is helping Data Scientists be more productive by adopting best practices
 from software engineering.  Data Scientists are often professional-quality data analysts with self-taught programming
-skills.  They're smart enough to create a lot of complexity without having the training to manage it efficiently. "DAGs" 
+skills.  They're smart enough to create a lot of complexity without always having the training to manage it efficiently. "DAGs" 
 are a key tool that should be in every Data Science Team's toolbox.
 
 ### My cautionary tale
 
-{{< admonition tip "Not in the mood for a motivating personal story?" false >}}
+{{< admonition tip "Not in the mood for a motivating personal story?" true >}}
 Skip to the ["so what"](#dag-answer)
 {{< /admonition >}}
 
@@ -78,7 +79,18 @@ direction; they point from the upstream task that must run first to the downstre
 iterative cycles, it’s always possible to represent these as an acyclic graph as long as the cycle eventually 
 terminates.
 
-<img src="/images/Tred-G.svg.png" alt="DAG diagram">
+{{< mermaid >}}
+stateDiagram-v2
+[*] --> a
+a --> b
+a --> c
+b --> d
+a --> d
+a --> e
+c --> e
+d --> e
+e --> [*]
+{{< /mermaid >}}
 
 Figure 2 shows an example DAG: here, tasks `b` and `c` can only run after `a` completes, task `d` depends on 
 the output of `a`,`b`, and `c`, and task `e` depends on the output of `a`,`c`, and `d`.

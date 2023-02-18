@@ -6,14 +6,13 @@ draft: false
 
 <div class="side-image">
 <img src="/images/hasha_profile.jpg" alt="Profile picture">
-<button class="contact-button" style="width: 100%;" role="button" onclick="window.location.href='/contact/';">Get in touch!</button>
 </div>
 
 <div class="side-image-main">
 
 My name is Alex Hasha.  I’m an experienced Data Science leader with thirteen years of
 professional experience developing models, building data-driven products, and managing
-highly-skilled teams of Data Scientists.  Check out my [resume](/documents/alex_hasha_resume.pdf)
+highly-skilled teams of Data Scientists.  Check out my [resumé](/documents/alex_hasha_resume.pdf)
 for the details!
 
 I can offer your organization:
@@ -37,4 +36,6 @@ I can offer your organization:
   Scientists either as their manager or Model Risk Officer. I take pride in giving
   individualized attention to members of my team, giving feedback both on technical
   choices and business alignment to help them grow and achieve their goals.
+
+<button class="contact-button" role="button" onclick="window.location.href='/contact/';">Get in touch!</button>
 </div>

@@ -9,7 +9,6 @@ toc:
 
 <div class="side-image">
 <img src="/images/hasha_profile.jpg" alt="Profile picture">
-<button class="contact-button" style="width: 100%;" role="button" onclick="window.location.href='/contact/';">Get in touch!</button>
 </div>
 
 <div class="side-image-main">
@@ -42,5 +41,7 @@ If this sounds like you, I may be able to help with...
   develop processes that let them scale while maintaining transparency and reliability.
 
 Please [contact me](/contact/) to explore how we might work together!
+
+<button class="contact-button" role="button" onclick="window.location.href='/contact/';">Get in touch!</button>
 
 </div>
