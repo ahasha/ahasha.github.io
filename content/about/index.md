@@ -1,16 +1,15 @@
 ---
-title: "About"
+title: "About Me"
 date: 2023-01-28T15:48:50-05:00
 draft: false
 ---
+<button class="contact-button" role="button" onclick="window.location.href='/contact/';">Get in touch!</button>
 
 <div class="side-image">
 <img src="/images/hasha_profile.jpg" alt="Profile picture">
 </div>
 
 <div class="side-image-main">
-
-## About me
 
 My name is Alex Hasha.  I’m an experienced Data Science leader with thirteen years of
 professional experience developing models, building data-driven products, and managing

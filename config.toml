@@ -72,6 +72,14 @@ url = "/posts/"
 title = ""
 [[menu.main]]
 weight = 3
+identifier = "portfolio"
+pre = ""
+post = ""
+name = "Portfolio"
+url = "/categories/portfolio/"
+title = ""
+[[menu.main]]
+weight = 4
 identifier = "climate"
 pre = ""
 post = ""
@@ -79,11 +87,11 @@ name = "Climate"
 url = "/categories/climate/"
 title = ""
 [[menu.main]]
-weight = 4
+weight = 5
 identifier = "resume"
 pre = ""
 post = ""
-name = "Resume"
+name = "Resumé"
 url = "/documents/alex_hasha_resume.pdf"
 title = ""
 

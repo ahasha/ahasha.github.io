@@ -6,6 +6,8 @@ toc:
   auto: true
 ---
 
+<button class="contact-button" role="button" onclick="window.location.href='/contact/';">Get in touch!</button>
+
 <div class="side-image">
 <img src="/images/hasha_profile.jpg" alt="Profile picture">
 </div>
@@ -16,12 +18,10 @@ toc:
 
 Your organization has an exciting opportunity in the realm of data, machine learning, or artificial 
 intelligence, or is just wondering how to capitalize on the revolution in AI that is happening all 
-around us.  You know you would benefit from experienced Data Science leadership, but you're
-not ready just yet to invest in permanent staff to tackle the problem.  You want a trustworthy 
+around us.  You know you would benefit from experienced Data Science leadership, and you want a trustworthy 
 advisor to help you evaluate the opportunity, prove out your idea, or hire the right team for the job. 
 Perhaps you are considering an investment in an existing data team or product, and you want an 
-independent perspective to help you make up your mind.  
-
+independent perspective to help you evaluate the opportunity.
 
 ## Services
 
