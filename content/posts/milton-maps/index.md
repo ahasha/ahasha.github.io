@@ -16,7 +16,7 @@ goals in putting this together:
 
 1. Provide an example of a Python project structure that is portable, transparent and reproducibile using
    modern tools for data versioning, document generation, and python environment management.
-   Namely, [dvc](dvc.org) for data version control and DAGs, [sphinx](https://www.sphinx-doc.org/en/master)_
+   Namely, [dvc](https://dvc.org/) for data version control and DAGs, [sphinx](https://www.sphinx-doc.org/en/master)
    for document generation, and [conda](https://conda.io/) for environment management.
 2. Build awareness in the community of Milton civic organizations of available sources of map data and
    how they might be used to answer questions of local interest.  Provide a starting foundation for
