@@ -10,8 +10,8 @@ resources:
   src: "milton_map.png"
 ---
 
-I recently did an [exploratory analysis](https://www.hashadatascience.com/milton_maps) combining several publicly 
-available geospatial datasets about the town of Milton, MA (where I live!) and surrounding communities.  I had a few 
+I recently did an [exploratory analysis](https://miltonmaps.hashadatascience.com) combining several publicly
+available geospatial datasets about the town of Milton, MA (where I live!) and surrounding communities.  I had a few
 goals in putting this together:
 
 1. Provide an example of a Python project structure that is portable, transparent and reproducibile using
@@ -23,4 +23,4 @@ goals in putting this together:
    anyone in town who may want to work with this data in Python.
 3. Learn more about geospatial analytics tools in Python!
 
-Checkout the project [here](https://www.hashadatascience.com/milton_maps)!
+Checkout the project [here](https://miltonmaps.hashadatascience.com/)!
