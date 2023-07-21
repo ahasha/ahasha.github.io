@@ -1,6 +1,0 @@
-[[redirects]]
-  from = "/milton_maps/*"
-  to = "https://hashads-miltonmaps.netlify.app"
-  status = 200
-  force = true
-  headers = {X-From = "Netlify"}
