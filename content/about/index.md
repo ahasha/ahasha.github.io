@@ -10,7 +10,7 @@ draft: false
 
 <div class="side-image-main">
 
-My name is Alex Hasha.  I’m an experienced Data Science leader with thirteen years of
+My name is Alex Hasha.  I’m an experienced Data Science leader with fifteen years of
 professional experience developing models, building data-driven products, and managing
 highly-skilled teams of Data Scientists.  Check out my [resumé](/documents/alex_hasha_resume.pdf)
 for the details!
