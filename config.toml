@@ -1,4 +1,4 @@
-baseURL = "https://www.hashadatascience.com/"
+baseURL = ""
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -603,6 +603,7 @@ taskList = true
 typographer = true
 [markup.goldmark.renderer]
 # whether to use HTML tags directly in the document
+# needed for Quarto: Many R and Python packages will produce computational output using raw HTML rather than markdown.
 unsafe = true
 # Table Of Contents settings
 [markup.tableOfContents]
