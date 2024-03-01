@@ -36,6 +36,3 @@ I can offer your organization:
   Scientists either as their manager or Model Risk Officer. I take pride in giving
   individualized attention to members of my team, giving feedback both on technical
   choices and business alignment to help them grow and achieve their goals.
-
-<button class="contact-button" role="button" onclick="window.location.href='/contact/';">Get in touch!</button>
-</div>
