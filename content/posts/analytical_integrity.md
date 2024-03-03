@@ -159,6 +159,6 @@ as you set out to operationalize analytical integrity:
   and reproducible manner the easiest way forward for your team.
 
 If this sounds like something your organization needs to work on, maybe I can help! Please don't hesitate to
-[get in touch](/contact/).
+[get in touch](https://forms.gle/ocDywDpj3HAy87Pc8).
 
 

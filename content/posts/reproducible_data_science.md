@@ -111,7 +111,7 @@ In an organization with well-established standards,
 Do you have a project or a team that might benefit from these best practices?  If so, maybe I can help?
 
 <br>
-<button class="contact-button" role="button" onclick="window.location.href='/contact/';">Get in touch!</button>
+<button class="contact-button" role="button" onclick="window.location.href='https://forms.gle/ocDywDpj3HAy87Pc8';">Schedule a consultation!</button>
 
 
 
