@@ -59,6 +59,12 @@ post = ""
 name = "Consulting"
 url = "/consulting/"
 # title will be shown when you hover on this menu link
+[[menu.main]]
+weight = 2
+identifier = "blog"
+name = "Blog"
+url = "/"
+
 # [[menu.main]]
 # weight = 2
 # identifier = "posts"
