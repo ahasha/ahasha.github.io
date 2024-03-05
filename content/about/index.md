@@ -10,29 +10,24 @@ draft: false
 
 <div class="side-image-main">
 
-My name is Alex Hasha.  I’m an experienced Data Science leader with fifteen years of
-professional experience developing models, building data-driven products, and managing
-highly-skilled teams of Data Scientists.  Check out my [resumé](/documents/alex_hasha_resume.pdf)
-for the details!
+I am a data leader with a passion for solving hard, real-world problems at the nexus of mathematics, data, software, people, and process. My goal is to accelerate climate change solutions through my expertise in building and managing data-driven products.  If you are are working on a data product that drives renewable energy deployment or electrification, I want to help you be wildly successful. Let's [work together](/consulting/)!
 
-I can offer your organization:
+## The outcomes matter more to me than the job title
 
-* **Full-lifecycle, multi-disciplinary perspective**: I have worked on every stage of the
-  lifecycle of analytic products including R&D, prototyping, implementation, deployment,
-  monitoring, governance, and retirement. This enables me to solve data problems holistically
-  and collaboratively, navigating both the human and technical sides of delivering results to
-  market.
-* **A focus on analytical integrity**:  Analytical errors are much more common
-  than decision makers would like to believe, and an analyst under time pressure can make
-  mistakes that are invisible in the short run but significantly degrade their ROI in the long run.
-  As a Model Risk Officer at Capital One, I mastered a variety of strategies and tactics to consciously
-  manage this kind of technical debt and strike an intentional balance between quality and
-  speed to market. These are based on a foundation of reproducibility and transparency,
-  emphasizing documentation and software engineering best practices such as version control,
-  automated testing, and CICD to ensure work can be handed-off and evidence of
-  trustworthiness is always readily available to all stakeholders.
-* **Team Building, Coaching, and Mentoring**: I was part of the team that developed the first hiring
-  process for Data Scientists at Capital One, have launched teams at two startups, and coached over a hundred Data
-  Scientists either as their manager or Model Risk Officer. I take pride in giving
-  individualized attention to members of my team, giving feedback both on technical
-  choices and business alignment to help them grow and achieve their goals.
+To achieve the results I care about, I've taken on a wide variety of roles and figured out how to be successful.  In recent years, I've been a:
+
+- **Hands-on ML Engineer**: Enabling my client to [build and deploy better models](https://medium.com/mission-lane-tech-blog/automate-model-development-part-1-ed22b1760ca9) more efficiently, transparently, and reproducibly using a range of open-source technologies
+- **Technical team leader**: Hired and led the data science team for the carbon accounting engine at [Persefoni](https://www.persefoni.com)
+- **AI Governance Leader**: I was a trusted partner for executives seeking business alignment and regulatory compliance for white space AI initiatives from chatbots to cybersecurity.  I helped them balance autonomy and accountability for their data science teams through independent model validation and risk management.
+- **Data Science Product Owner**: I refined and prioritized the product roadmap for Capital One's enterprise ML platforms, balancing the needs of data scientists, engineers, and business leaders to deliver strategic value.
+
+## Other formative experiences...
+
+- 🌊 Knowing things I can't unknow about the cost of burning fossil fuels through [PhD research](https://scholar.google.com/citations?user=U0ZybEIAAAAJ) on wave problems in climate models
+- 📉 First job: modeling mortage backed securities at Citigroup during the 2008 financial crisis
+- 🐘 [Big Data at Bundle.com](https://techcrunch.com/2012/11/30/capital-one-acquires-bundle-a-data-driven-local-business-directory/): minining insights for everyday consumers from credit card transaction data
+- 💳 Digital transformation and data science modernization at Capital One's Innovation Lab
+- 🌍 Serving my community as a board member of [Sustainable Milton](https://action.sustaianblemilton.org), chair of the [Milton Climate Action Planning committee](https://townofmilton.org/584/Climate-Action-Planning-Committee), and a tenor in the [FCC Milton choir](https://fccmilton.org/ministries/music/)
+
+
+</div>
