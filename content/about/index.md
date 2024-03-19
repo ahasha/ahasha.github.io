@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "What I'm about"
 date: 2023-01-28T15:48:50-05:00
 draft: false
 ---
@@ -10,7 +10,7 @@ draft: false
 
 <div class="side-image-main">
 
-I am a data leader with a passion for solving hard, real-world problems at the nexus of mathematics, data, software, people, and process. My goal is to accelerate climate change solutions through my expertise in building and managing data-driven products.  If you are are working on a data product that drives renewable energy deployment or electrification, I want to help you be wildly successful. Let's [work together](/consulting/)!
+I am a data leader with a passion for solving hard, real-world problems at the nexus of mathematics, data, software, people, and process. I want to apply my expertise in building and managing data-driven products to accelerate climate change solutions.  If you are are working on a product that drives renewable energy deployment or electrification, I want to help you be wildly successful. Let's [work together](/consulting/)!
 
 ## The outcomes matter more to me than the job title
 
