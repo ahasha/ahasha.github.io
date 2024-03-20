@@ -15,11 +15,13 @@ With a focus on delivering [analytical integrity](/analytical_integrity/) throug
 
 ### Ways to engage
 
-1. **Request an initial consultation**: Fill out my [intake form](https://forms.gle/ocDywDpj3HAy87Pc8) to schedule a free 30-minute consultation.  We will discuss your team's opportunities and challenges and explore how I may be able to help.
+1. **Schedule an exploratory call**: Fill out my [intake form](https://forms.gle/ocDywDpj3HAy87Pc8) to schedule a first conversation.  We will discuss your team's opportunities and challenges and explore how I may be able to help.
+
+<button class="contact-button" role="button" onclick="window.location.href='https://forms.gle/ocDywDpj3HAy87Pc8';">Schedule a consultation!</button>
 
 2. **Opportunity Discovery and Strategic Projects**:  If we see a good fit, I will embed with your existing data science team on a monthly retainer model. In the first 30 days, I will onboard and familiarize myself with how your team works by completing the type of work assignments you'd give to a newly hired individual contributor.  After the onboarding period, I will provide an assessment of your team's risks and opportunities and a refined 30-60-90 day proposal of project goals.  At this point, we can make an informed, mutual decision about whether to move forward.
 
-3. **Advisory consultations**: While I'm only taking on new projects related to climate change solutions, I'm available for ongoing advisory consultations on a broader variety of topics where I can offer expertise. [Click here](https://calendly.com/ahasha/ml-consultation) to schedule follow ups after the initial consultation.
+3. **Advisory consultations**: While I'm only taking on new projects related to climate change solutions, I'm available for ongoing advisory consultations on a broader range of topics where I can offer expertise. [Click here](https://calendly.com/ahasha/ml-consultation) to schedule advisory consultations.
 
 ### Why choose freelance?
 
