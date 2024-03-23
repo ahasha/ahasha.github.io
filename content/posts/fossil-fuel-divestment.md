@@ -55,7 +55,4 @@ Larry Fink rocked the investment world in his [January 2020 letter to CEOs](http
 
 Personally, I think that if your goal is to fix climate change, calling on large investors like pension funds and endowments to divest from fossil fuel companies is misguided. (If you’re just looking to maximize long term returns, that’s another story!)   Much better to pressure those investors to proactively advocate for fossil fuel companies to clean up their acts.  I’m not aware of any retail investment funds based on this premise, just “Green” funds that exclude fossil fuel companies and other major GHG emitters.  Perhaps buying into these funds is the best thing regular people can do to signal their support for climate action.  But even if that’s the best option available to us small fries, we shouldn’t ask the Larry Finks of the world to follow the same strategy.
 
-What do you think?  If you know of any retail funds that pursue this strategy, or just want to talk climate, please
-don't hestitate to [contact me](/contact/).
-
 
