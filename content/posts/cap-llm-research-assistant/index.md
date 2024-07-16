@@ -2,10 +2,12 @@
 title: "Case Study: Using AI as a research assistant to develop Milton's Climate Action Plan"
 date: 2024-07-13T20:36:51-04:00
 tags: ["generative-ai", "case-study", "climate"]
+description: "My AI research assistant read hundreds of pages of climate action plans to help my team brainstorm Milton's Climate Action Plan.  Here's how I did it."
 draft: false
 weight: 1
 ---
 
+<!--more-->
 As a member of Milton's [Climate Action Planning Committee](https://www.townofmilton.org/584/Climate-Action-Planning-Committee), I'm working with a team of committed, passionate volunteers and town staff to develop the roadmap for Milton to rapidly reduce its town-wide fossil fuel pollution and prevent the most damaging impacts of climate change.
 
 Massachusetts's climate goal to achieve net-zero emissions by 2050 is at once breathtakingly ambitious and barely adequate to prevent dire consequences for future generations. Writing a climate action plan is challenging because it necessarily involves bold, unprecedented action across every aspect of the local economy, as almost everything we do uses energy from fossil fuels in one way or another. Since their goals are unprecedented, no one has ever successfully implemented one and there is no well-blazed path to follow.  But, there are also plenty of solutions and strategies for us to consider.  At least 20 other communities in Massachusetts that we are aware of have adopted Climate Action Plans, with many more currently developing one.
