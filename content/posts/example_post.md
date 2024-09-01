@@ -1,5 +1,5 @@
 ---
-title: "Example_post"
+title: "Example Post"
 date: 2024-09-01T17:34:04-04:00
 draft: false
 tags: ["netlify", "hugo"]
